@@ -1,0 +1,1 @@
+.venv/  add .gitignoregit rm -r --cached .venvgit commit -m "Remove .venv and update gitignore"git push -u origin master
