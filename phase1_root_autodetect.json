@@ -1,0 +1,41 @@
+{
+  "base": "UCF101",
+  "suggested_root": "UCF101\\UCF-101",
+  "detected_classes_count": 101,
+  "sample_class_counts": [
+    [
+      "ApplyEyeMakeup",
+      145
+    ],
+    [
+      "ApplyLipstick",
+      114
+    ],
+    [
+      "Archery",
+      145
+    ],
+    [
+      "BabyCrawling",
+      132
+    ],
+    [
+      "BalanceBeam",
+      108
+    ],
+    [
+      "BandMarching",
+      155
+    ],
+    [
+      "BaseballPitch",
+      150
+    ],
+    [
+      "Basketball",
+      134
+    ]
+  ],
+  "classind_missing_count": 0,
+  "extra_folders_count": 0
+}

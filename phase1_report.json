@@ -1,0 +1,61 @@
+{
+  "classes_count": 1,
+  "per_class_counts": {
+    "UCF-101": 0
+  },
+  "annotations_files": [
+    "classInd.txt",
+    "testlist01.txt",
+    "testlist02.txt",
+    "testlist03.txt",
+    "trainlist01.txt",
+    "trainlist02.txt",
+    "trainlist03.txt"
+  ],
+  "missing_annotation_references_count": 39960,
+  "sample_missing_refs": [
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c01.avi"
+    ],
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c02.avi"
+    ],
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c03.avi"
+    ],
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c04.avi"
+    ],
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c05.avi"
+    ],
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c06.avi"
+    ],
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g02_c01.avi"
+    ],
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g02_c02.avi"
+    ],
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g02_c03.avi"
+    ],
+    [
+      "testlist01.txt",
+      "ApplyEyeMakeup/v_ApplyEyeMakeup_g02_c04.avi"
+    ]
+  ],
+  "readability_checked": 0,
+  "readability_unreadable_count": 0,
+  "moved_files_if_any": []
+}

@@ -1,0 +1,8 @@
+{
+  "corrected_root": "UCF101\\UCF-101",
+  "detected_class_folders": 101,
+  "total_videos_approx": 13320,
+  "readability_checked": 500,
+  "readability_unreadable_count": 0,
+  "sample_unreadable": []
+}

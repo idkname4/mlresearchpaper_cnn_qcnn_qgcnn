@@ -1,0 +1,23 @@
+# Large dataset folders 
+frames/ 
+frames_dev/ 
+frames_flat/ 
+UCF101/ 
+UCF101TrainTestSplits*/ 
+xenv/ 
+ 
+# Model checkpoints 
+*.pth 
+*.pkl 
+ 
+# Python cache 
+__pycache__/ 
+*.pyc 
+ 
+# Jupyter 
+.ipynb_checkpoints/ 
+ 
+# OS files 
+.DS_Store 
+Thumbs.db 
+# Large dataset folders  frames/  frames_dev/  frames_flat/  UCF101/  UCF101TrainTestSplits*/  xenv/  # Model checkpoints  *.pth  *.pkl  # Python cache  __pycache__/  *.pyc  # Jupyter  .ipynb_checkpoints/  # OS files  .DS_Store  Thumbs.db 
