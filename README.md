@@ -1,1 +1,1 @@
-# UCF101 CNN Training Pipeline  ## Main Files:  - `train.ipynb` - Main training notebook  - `ucf101_pipeline.py` - Pipeline utilities  - `phase*_report.json` - Training reports  ## Setup on New Device:  1. Clone: `git clone <your-repo-url>`  2. Install: `pip install -r requirements.txt`  3. Download UCF101 dataset and extract to `frames_flat/`  4. Run `train.ipynb` cells 1-5 first, then continue 
+beep beep beeeeeeeeeeeeeeeeeee currently in working eeeeeeeeeeeeeeeeeeeep
